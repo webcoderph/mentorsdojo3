@@ -1,0 +1,1 @@
+<a href="https://www.facebook.com/dialog/oauth?client_id=YOUR_APP_KEY&redirect_uri=<?php echo urlencode($redirect_loginUrl); ?>&scope=email">Login via Facebook</a>

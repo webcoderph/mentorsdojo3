@@ -1,0 +1,6 @@
+{
+	"require": {
+		"mikehenrty/thin-pdo-wrapper": "dev-master",
+		"monolog/monolog": "1.0.*"
+	}
+}
